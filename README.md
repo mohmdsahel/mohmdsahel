@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mohmdsahel
-- 👀 I’m interested in python fullstack
 - 📫 How to reach me mosahel000@gmail.com
 
 <!---
